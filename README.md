@@ -1,6 +1,8 @@
 # json-data-extender
 Extend JSON like sample data based on some very simple rules.
 
+This project has been renamed and can now be found here: [Blowson](https://github.com/FrediBach/Blowson)
+
 ## About
 
 JSON Data Extender was created to make mocking of API's with realistic sample data easier and more powerful. It's an integral part of a Frontend First Development workflow described here: [www.frontendfirstdevelopment.com](http://www.frontendfirstdevelopment.com/)
